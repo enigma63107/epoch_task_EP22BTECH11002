@@ -38,17 +38,3 @@ Cluster 1:
 Number of Points: 117
 Centroid: [73.14601443 26.18788977]
 ```
-
-## Contributing
-Contributions are welcome. Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or support, please contact [your email].
